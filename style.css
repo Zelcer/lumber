@@ -182,7 +182,7 @@ img {
 .mobile-menu-btn {
   width: 40px;
   height: 40px;
-  background-image: url("/img/icons/burger-menu-icon.svg");
+  background-image: url("img/icons/burger-menu-icon.svg");
   background-repeat: no-repeat;
 }
 
@@ -238,7 +238,7 @@ img {
   right: 5px;
   width: 35px;
   height: 35px;
-  background-image: url("/img/icons/close-icon.svg");
+  background-image: url("img/icons/close-icon.svg");
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -510,11 +510,11 @@ img {
 }
 
 .contacts__item--phone::before {
-  background-image: url("/img/icons/phone-icon.svg");
+  background-image: url("img/icons/phone-icon.svg");
 }
 
 .contacts__item--address::before {
-  background-image: url("/img/icons/pin-icon.svg");
+  background-image: url("img/icons/pin-icon.svg");
 }
 
 .contacts__item-info {
